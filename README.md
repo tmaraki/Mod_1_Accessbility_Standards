@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 Starter code provided here: https://github.com/coding-boot-camp/urban-octo-telegram
 
-# Challenge Elements
+# Module-1-Challenge-Elements
 
 ## Description
 Welcome to my very first challenge for the Coding Bootcamp Certificate course through Michigan State University. Beginning with a starter code, I updated the HTML elements to meet the acceptance criteria. 
